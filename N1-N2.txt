@@ -1,0 +1,1235 @@
+#separator:tab
+#html:false
+#tags column:3
+踏まえる	ふまえる to be based on; to have origin in	
+寄せる	よせる 1: to come near; to let someone approach 2: to bring near; to bring together; to collect; to gather 3: to deliver (opinion, news, etc.); to send (e.g. a letter); to contribute; to donate 4: to let someone drop by 5: to add (numbers) 6: to have feelings for (love, good will, trust, etc.) 7: to rely upon for a time; to depend on 8: to use as a pretext 9: to put aside 10: to press; to push; to force	
+給付	きゅうふ 1: payment; provision; benefit; present; delivery 2: performance	
+減税	げんぜい tax reduction	
+税収増	ぜいしゅうぞう increased tax revenue; tax increases	
+還元	かんげん resolution; reduction; return to origins	
+応援	おうえん aid; assistance; help; reinforcement; rooting; barracking; support; cheering	
+所得税減税	しょとくぜいげんぜい income tax cut; income tax reduction	
+暫定	ざんてい tentative; temporary	
+税率	ぜいりつ 1: tariff 2: tax rate	
+廃止	はいし abolition; repeal	
+中小企業	ちゅうしょうきぎょう small to medium enterprises; smaller companies	
+支援	しえん support; backing; aid; assistance	
+賃上げ	ちんあげ wage increase	
+推進	すいしん 1: propulsion; driving force 2: implementation; promotion (e.g. of a government policy)	
+年金	ねんきん annuity; pension	
+給付	きゅうふ 1: payment; provision; benefit; present; delivery 2: performance	
+水準	すいじゅん 1: level; standard 2: water level	
+底上げ	そこあげ raising (the standard)	
+備える	そなえる 1: to furnish; to provide for; to equip; to install 2: to have ready; to prepare for 3: to possess; to have; to be endowed with; to be armed with	
+挑む	いどむ 1: to challenge; to throw down the gauntlet; to contend for; to tackle 2: to pressure someone for sex; to woo; to make love to	
+魅力的	みりょくてき charming; fascinating; attractive	
+老朽化	ろうきゅうか aging; wearing out; deterioration	
+対策	たいさく counter-plan; counter-measure	
+強化	きょうか strengthen; intensify; reinforce; solidify; enhancement	
+核	かく 1: pit (of a fruit); stone 2: core 3: nucleus; nuclear 4: nuclear weaponry	
+起業	きぎょう starting a business; promotion of enterprise	
+挑む	いどむ 1: to challenge; to throw down the gauntlet; to contend for; to tackle 2: to pressure someone for sex; to woo; to make love to	
+後押し	あとおし pushing; backing; boosting; supporting	
+牽引	けんいん hauling; tow; pull; drag	
+政策	せいさく political measures; policy	
+連盟	れんめい league; federation; union; alliance	
+弁護士	べんごし lawyer; attorney	
+税率	ぜいりつ 1: tariff 2: tax rate	
+暫定	ざんてい tentative; temporary	
+撤廃	てっぱい annulment; abolition; repeal; rescission	
+敬老	けいろう respect for the aged	
+私鉄	してつ private railway	
+放題	ほうだい as much as you would like to; as much as one likes	
+企業	きぎょう enterprise; undertaking; corporation; business	
+団体	だんたい organization; organisation; association	
+献金	けんきん donation; contribution; offering	
+貫く	つらぬく 1: to go through; to pierce; to penetrate 2: to carry out; to persist; to keep (faith); to stick to (principles); to maintain (independence)	
+並み	なみ 1: average; medium; common; ordinary 2: line; row of (e.g. houses) 3: mid-grade 4: same level; equal; each (e.g. month); set of (e.g. teeth)	
+給与	きゅうよ pay; salary; wages; allowance; grant; supply	
+家業	かぎょう family business; trade; occupation; line of work; one's father's occupation	
+制度	せいど system; institution; organization; organisation	
+控除	こうじょ subtraction; deduction (e.g. tax); subsidy	
+最低賃金	さいていちんぎん minimum wage	
+雇用	こよう employment (long term); hire	
+権利	けんり right; privilege	
+圧倒的	あっとうてき overwhelming	
+繁盛	はんじょう prosperity; flourishing; thriving	
+繁栄	はんえい prospering; prosperity; thriving; flourishing	
+繁く	しげく frequently	
+省略	しょうりゃく omission; abbreviation; abridgment; abridgement	
+所謂	いわゆる what is called; as it is called; the so-called; so to speak	
+躊躇	ちゅうちょ hesitation; indecision; vacillation	
+状態	じょうたい current status; condition; situation; circumstances; state	
+想定外	そうていがい beyond expectations; beyond what one expected; not foreseen; exceeding assumptions	
+簡略化	かんりゃくか simplification	
+辺	へん 1: area; vicinity 2: side (of triangle, rectangle, etc.) 3: circumstances	
+地獄	じごく hell	
+監獄	かんごく prison	
+煉獄	れんごく purgatory	
+炭素	たんそ carbon (C)	
+日誌	にっし journal; log	
+空欄	くうらん blank space	
+眼鏡	がんきょう spectacles; glasses	
+真っ黒い	まっくろい pitch black; deep black	
+記述	きじゅつ description; descriptor	
+式	しき 1: equation; formula; expression 2: ceremony 3: style 4: enforcement regulations (of the ritsuryo)	
+対策	たいさく counter-plan; counter-measure	
+視線	しせん one's line of sight; one's gaze; one's eyes (looking); glance; gaze; look	
+越し	ごし across; over; beyond	
+瞳	ひとみ 1: pupil (of eye) 2: eye	
+凝乎と	じっと 1: motionlessly (e.g. stand, wait); (be) still 2: fixedly (e.g. gaze, stare); intently (e.g. listen, think) 3: patiently (endure); stoically 4: firmly (e.g. hold); restrained	
+担当	たんとう (in) charge (of an area of responsibility, but not necessarily supervision of staff)	
+載せる	のせる 1: to place on (something) 2: to give (someone) a ride; to give a lift; to pick up; to help on board 3: to load (luggage); to carry; to take on board 4: to send out (on the airwaves, etc.) 5: to deceive; to take for a ride 6: to (sing) along with (musical accompaniment) 7: to let (someone) take part 8: to excite (someone) 9: to publish (an article); to run (an ad)	
+憧れ	あこがれ yearning; longing; aspiration	
+熟語	じゅくご 1: kanji compound 2: idiom; idiomatic phrase	
+宙ぶらりん	ちゅうぶらりん 1: dangling; hanging; suspended 2: pending; half done; in limbo; indecisive	
+宇宙	うちゅう universe; cosmos; space	
+射る	いる to shoot	
+射殺	しゃさつ shooting to death	
+射芸	しゃげい archery	
+家庭教師	かていきょうし tutor; coach	
+附属	ふぞく attached; belonging (to); included; enclosed; affiliated; annexed; associated; subordinate; incidental; dependent; auxiliary	
+にっこり	smile sweetly; smile; grin	
+穏やか	おだやか calm; gentle; quiet	
+名乗	なのり 1: giving one's name (or rank, etc.); self-introduction 2: name readings of kanji	
+直感的	ちょっかんてき intuitive	
+共感	きょうかん sympathy; empathy; response	
+専攻	せんこう major subject; special study	
+初対面	しょたいめん first meeting; first interview with	
+達成	たっせい achievement	
+納得	なっとく consent; assent; understanding; agreement; comprehension; grasp	
+微妙	びみょう 1: delicate; subtle; sensitive 2: difficult; delicate (situation); complicated 3: doubtful; questionable; dicey; tricky	
+察知	さっち sense; infer	
+露骨	ろこつ 1: frank; blunt; plain; outspoken 2: conspicuous; open 3: broad; suggestive; lewd	
+頬	ほお cheek (of face)	
+攣る	つる to cramp; to be cramped; to contract	
+不意	ふい sudden; abrupt; unexpected; unforeseen	
+扉	とびら 1: door; gate; opening 2: title page	
+指摘	してき pointing out; identification	
+条	くだり passage; paragraph	
+没収	ぼっしゅう forfeiture; seizure; confiscation; impounding	
+渋々	しぶしぶ reluctantly; unwillingly	
+教壇	きょうだん platform	
+抗議	こうぎ protest; objection	
+眺め	ながめ scene; view; prospect; outlook	
+吐く	つく 1: to breathe out; to breathe 2: to tell (a lie); to use (foul language) 3: to vomit; to throw up; to spit up	
+心底	しんそこ one's innermost depths; completely (from the bottom of one's heart)	
+呆れる	あきれる to be amazed; to be shocked; to be astonished; to be astounded; to be disgusted	
+呟く	つぶやく to mutter; to murmur	
+裏腹	うらはら opposite; reverse; contrary	
+極	きょく 1: pole 2: climax; extreme; extremity; culmination; height; zenith; nadir	
+軽蔑	けいべつ scorn; disdain	
+繋ぐ	つなぐ to tie; to fasten; to connect; to transfer (phone call)	
+振動	しんどう oscillation; vibration	
+欠	"あくび 1: yawn; yawning (and stretching) 2: kanji ""yawning"" radical (radical 76)"	
+囲い	かこい enclosure; paling; storage	
+出欠	しゅっけつ presence or absence; attendance (e.g. when taking a rollcall)	
+教壇	きょうだん platform	
+名簿	めいぼ register of names; list of names; roll; register	
+脇	わき 1: armpit; under one's arm; side; flank 2: beside; close to; near; by 3: aside; to the side; away; out of the way 4: off-track; off-topic 5: deuteragonist; supporting role 6: second verse (in a linked series of poems)	
+周囲	しゅうい 1: surroundings; environs 2: circumference	
+教卓	きょうたく teacher's desk; teacher's lectern	
+卓	たく 1: table; desk 2: counter for tables, desks, etc.	
+着心地	きごこち (good or bad) feel when wearing something	
+慎重	しんちょう careful; cautious; prudent; discreet; deliberate	
+引き戸	ひきと sliding door	
+バタバタ	1: flapping; rattling (sound); noisily; clattering noise 2: commotion; kerfuffle	
+廊下	ろうか corridor; hallway; passageway	
+深緑	しんりょく dark (deep) green	
+緑	みどり 1: green 2: greenery (esp. fresh verdure)	
+玉	たま 1: ball; sphere; globe; orb 2: bead (of sweat, dew, etc.); drop; droplet 3: ball (in sports) 4: pile (of noodles, etc.) 5: bullet 6: bulb (i.e. a light bulb) 7: lens (of glasses, etc.) 8: bead (of an abacus) 9: ball (i.e. a testicle) 10: gem; jewel (esp. spherical; sometimes used figuratively); pearl 11: female entertainer (e.g. a geisha) 12: person (when commenting on their nature); character 13: item, funds or person used as part of a plot 14: egg 15: coin 16: precious; beautiful; excellent	
+玉	ぎょく 1: precious stone (esp. jade) 2: egg (sometimes esp. as a sushi topping) 3: stock or security being traded; product being bought or sold 4: position (in finance, the amount of a security either owned or owed by an investor or dealer) 5: geisha 6: time charge for a geisha 7: king (shogi)	
+玉屋	たまや jeweler	
+灰色	はいいろ grey; gray; ashen	
+灰	はい ash; ashes	
+灰皿	はいざら ashtray	
+路線	ろせん route; line; alignment	
+路線図	ろせんず route map (buses and trains, etc.)	
+着心地	きごこち (good or bad) feel when wearing something	
+一種	いっしゅ species; kind; variety	
+腸	ちょう guts; bowels; intestines	
+届く	とどく 1: to reach; to arrive; to get through; to get at 2: to be attentive; to pay attention 3: to be delivered; to carry (e.g. sound)	
+腸内	ちょうない intestinal; inside the intestines	
+省資源	しょうしげん saving resources	
+衛生的	えいせいてき hygienic; sanitary	
+まれに見る	まれにみる rare; extraordinary; singular	
+稀に見る	まれにみる rare; extraordinary; singular	
+乳	ちち 1: milk 2: breast	
+成分	せいぶん ingredient; component; composition	
+沈殿	ちんでん precipitation; deposition; settlement (e.g. of sediment)	
+透明	とうめい transparency; cleanness	
+層	そう 1: layer; seam; bed; stream; class 2: sheaf 3: storey (of a building); story; floor	
+振う	ふるう 1: to swing; to wield (physically); to exert 2: to exercise (e.g. power, ability); to exhibit; to display; to wield (metaphorically) 3: to flourish; to prosper; to thrive	
+お召し	おめし 1: summoning; calling; riding; wearing; dressing; clothing 2: (high-quality) silk crepe (fabric)	
+紙パック	かみパック drink box; carton (milk, juice, etc.); paper bag (for vacuum cleaners)	
+同様	どうよう identical; equal to; same (kind); like; similarity	
+取り扱う	とりあつかう to treat; to handle; to deal in	
+乾かす	かわかす to dry (clothes, etc.); to desiccate	
+適切	てきせつ pertinent; appropriate; adequate; relevance	
+処理	しょり processing; dealing with; treatment; disposition; disposal	
+冷蔵	れいぞう cold storage; refrigeration	
+保存	ほぞん preservation; conservation; storage; saving (e.g. to disk); maintenance	
+発酵乳	はっこうにゅう yoghurt	
+湿る	しめる 1: to be wet; to become wet; to be damp; to be moist 2: to be in low spirits; to feel depressed	
+篭める	こめる 1: to load (a gun, etc.); to charge 2: to put into (e.g. emotion, effort) 3: to include (e.g. tax in a sales price) 4: to hang over; to shroud; to enshroud; to envelop; to screen	
+上映	じょうえい 1: screening (a movie); showing 2: to screen a movie	
+先着順	せんちゃくじゅん order of arrival; first-come-first-served basis	
+睨む	にらむ 1: to glare at; to scowl at; to glower at 2: to stare intensely at; to examine carefully 3: to estimate; to guess; to suspect; to judge 4: to keep an eye on someone (e.g. a suspicious or untrustworthy person); to watch 5: to take account of; to take into consideration	
+保護者	ほごしゃ guardian; protector; patron; parent	
+監視者	かんししゃ guardian	
+出願	しゅつがん application	
+汽笛	きてき steam whistle	
+効用	こうよう use; utility; effect; benefit	
+二重人格者	にじゅうじんかくしゃ someone with a dual personality	
+復権	ふっけん rehabilitation; reinstatement; restoration of rights	
+奇跡	きせき miracle; wonder; marvel	
+職場	しょくば one's post; place of work; workplace	
+誇り	ほこり pride; boast	
+歓声	かんせい cheer; shout of joy	
+浴びる	あびる 1: to dash over oneself (e.g. water); to bathe; to bask in (e.g. the sun); to be flooded with (e.g. light); to shower 2: to suffer (e.g. an attack); to have abuse heaped upon; to draw criticism upon oneself	
+演説	えんぜつ speech; address	
+歓迎会	かんげいかい welcome party	
+新入社員	しんにゅうしゃいん new employee; freshman employee; new hire	
+勧誘	かんゆう invitation; solicitation; canvassing; canvasing; inducement; persuasion; encouragement	
+保険	ほけん insurance; guarantee	
+進行状況	しんこうじょうきょう state of progress	
+主張	しゅちょう claim; request; insistence; assertion; advocacy; emphasis; contention; opinion; tenet	
+権利	けんり right; privilege	
+権限	けんげん power; authority; jurisdiction	
+選挙権	せんきょけん suffrage; the right to vote	
+権威	けんい authority; power; influence	
+妊娠	にんしん conception; pregnancy	
+豊か	ゆたか 1: abundant; wealthy; plentiful; rich; affluent 2: very; extremely; full of; great	
+軽やか	かろやか light; easy; non-serious; minor	
+後味	あとあじ aftertaste	
+たっぷり	full; in plenty; ample	
+淹れる	いれる to make (tea, coffee, etc.); to brew a beverage (with hot water)	
+本来	ほんらい 1: originally; primarily 2: essentially; naturally; by nature; in (and of) itself 3: proper; legal	
+本格的	ほんかくてき 1: genuine; real; regular; normal; typical; standard; orthodox 2: full-scale; full-blown; all-out 3: full-fledged; professional	
+拘り	こだわり 1: obsession; fixation; hangup; determination; fastidiousness; pickiness about (trait, style, etc.) 2: complaining; criticizing	
+滅びる	ほろびる to be ruined; to go under; to perish; to be destroyed	
+謝罪	しゃざい apology	
+尽くす	つくす 1: to exhaust; to run out 2: to devote; to serve (a person); to befriend 3: to do to exhaustion	
+裕福	ゆうふく affluence; prosperity	
+非常	ひじょう 1: emergency 2: extraordinary; unusual	
+異なる	ことなる to differ; to vary; to disagree	
+利益	りえき 1: profit; gains 2: benefit; advantage; interest (of the public, etc.)	
+背景	はいけい 1: background; scenery; backdrop; setting; circumstance; context 2: backing; support (from behind the scenes)	
+金銭	きんせん money; cash	
+高級	こうきゅう high class; high grade	
+欧米	おうべい Europe and America; the West	
+代表	だいひょう representative; representation; delegation; type; example; model	
+質素	しっそ simplicity; modesty; frugality	
+慎重	しんちょう careful; cautious; prudent; discreet; deliberate	
+貧困	ひんこん 1: poor; needy 2: lacking; meagre; meager	
+捻出	ねんしゅつ contriving (to raise funds); working out (a solution)	
+売却	ばいきゃく selling off; disposal by sale; sale	
+財産	ざいさん property; fortune; assets	
+送り	おくり 1: seeing off; sending off 2: funeral 3: escapement	
+公共交通機関	こうきょうこうつうきかん public transportation	
+節約	せつやく economising; saving	
+努める	つとめる to endeavor (endeavour); to try; to strive; to make an effort; to exert oneself; to be diligent	
+経済的	けいざいてき economic; economical	
+特権	とっけん privilege; special right	
+認識	にんしき recognition; cognizance; cognisance	
+欠如	けつじょ lack; privation; deficiency	
+見せびらかす	みせびらかす to show off; to flaunt	
+紛れもない	まぎれもない certain; unmistaken; evident; obvious; beyond doubt	
+面子	メンツ 1: face (chi: mianzi); honour; honor 2: combination of three tiles that form a set in mahjong 3: personnel; members; lineup 4: making up a four to play mahjong	
+保ち合う	もちあう to maintain equilibrium; to share expenses	
+欲求	よっきゅう desire	
+駆られる	かられる to be driven by (one's feelings); to succumb to	
+競争	きょうそう 1: competition; contest 2: to compete	
+自力	じりき by oneself; self-made	
+運営	うんえい management; administration; operation	
+雇	やとい employee; employment	
+代理店	だいりてん agent; agency	
+店舗	てんぽ shop; store	
+物流	ぶつりゅう (physical) distribution; distribution of goods; logistics	
+管理	かんり control; management (e.g. of a business)	
+作成	さくせい drawing up (e.g. legal document, contract, will, etc.); preparing; writing; framing; making; producing; creating; creation	
+起業家	きぎょうか entrepreneur; person who starts a new business	
+維持	いじ maintenance; preservation; improvement	
+演出	えんしゅつ production (e.g. play); direction	
+ごくわずか	derisory; negligible; minimal; nominal; imperceptible	
+端緒	たんしょ a clue; start; beginning	
+端的	たんてき frank; direct; plain; straightforward; point-blank; concise	
+綱紀	こうき law and order; discipline	
+綱領	こうりょう general plan; main points; summary; platform (e.g. for a campaign); mission statement	
+告げる	つげる to inform; to tell; to ring (bell, alarm, warning, etc.)	
+頼り	たより reliance; dependence	
+積む	つむ 1: to pile up; to stack 2: to load (car, ship, etc.); to pack 3: to acquire; to accumulate	
+充分	じゅうぶん 1: plenty; enough; sufficient; satisfactory; adequate 2: perfectly; thoroughly; fully; in full	
+素敵	すてき lovely; dreamy; beautiful; great; fantastic; superb; cool; capital	
+光り輝く	ひかりかがやく to shine; to glitter	
+幼い頃	おさないころ as a child; when one was a child	
+贈る	おくる 1: to give (as a gift); to present 2: to confer; to bestow; to award	
+従業員	じゅうぎょういん employee; worker	
+従業員	じゅうぎょういん employee; worker	
+見栄え	みばえ show; display; appearance; vanity; charm; attraction	
+縛る	しばる to tie; to bind	
+貰う	"もらう 1: to receive; to take; to accept 2: to get somebody to do something (follows a verb in ""te"" form)"	
+肩を落とす	かたをおとす to drop one's shoulders	
+震わせる	ふるわせる to (make something) quiver; to shake; to tremble; to vibrate	
+振り	ふり 1: swing; shake; wave; swinging 2: appearance; behaviour 3: pretence (pretense); show 4: lacking a reservation or introduction (at a restaurant, etc.) 5: postures (of a dance) 6: unsewn part of a hanging sleeve on a traditional Japanese woman's garment 7: counter for swords, blades, etc.	
+振り返す	ふりかえす to relapse; to reassert; to review	
+振り返る	ふりかえる 1: to turn head; to look over one's shoulder; to turn around; to look back 2: to think back (on); to reminisce; to look back (on); to reflect (on)	
+永遠	えいえん eternity; perpetuity; immortality; permanence	
+切ない	せつない 1: painful; heartrending; trying 2: oppressive; suffocating; miserable	
+謝罪	しゃざい apology	
+団子	だんご 1: dango; dumpling (usu. sweet); doughboy 2: ball-shaped object; something round 3: lump; group; bunch; knot; tight crowd	
+正義	せいぎ justice; right; righteousness; correct meaning	
+詰まる	つまる 1: to be packed (with); to be full (space, schedule, etc.) 2: to be blocked (road, pipe, etc.); to be clogged; to be plugged up 3: to shorten (width, interval, etc.); to shrink (shirt, word form, etc.); to narrow 4: to be at a loss; to be hard pressed 5: to end up; to be settled 6: to become a geminate consonant 7: (baseb) to hit the ball near the handle of the bat	
+身に付ける	みにつける 1: to learn; to acquire knowledge 2: to carry; to wear (clothes, etc.); to put on	
+刺激	しげき stimulus; impetus; incentive; encouragement; motivation; provocation; excitement; thrill	
+試練	しれん test; trial; probation; ordeal; tribulation	
+中庭	なかにわ courtyard; quadrangle; middle court	
+出欠	しゅっけつ presence or absence; attendance (e.g. when taking a rollcall)	
+着席	ちゃくせき sit down; seat	
+反感	はんかん antipathy; revolt; animosity	
+輝く	かがやく to shine; to glitter; to sparkle	
+導く	みちびく 1: to guide; to lead; to show the way; to conduct 2: to derive; to deduce	
+奪還	だっかん recovery; rescue; recapture	
+奪回	だっかい recovery; rescue; recapture	
+奪う	うばう to snatch away; to dispossess; to steal	
+瞬間	しゅんかん moment; second; instant	
+頬	ほお cheek (of face)	
+障害	しょうがい 1: obstacle; impediment; hindrance; difficulty; barrier 2: handicap; impairment; disability; disorder; malfunction	
+乗り越える	のりこえる 1: to climb over; to get over; to ride across 2: to surmount; to overcome 3: to surpass; to overtake	
+街	がい .. street; .. quarter; .. district	
+舞い降りる	まいおりる to swoop down upon; to fly down; to alight	
+壊れる	こわれる 1: to be broken; to break 2: to fall through; to come to nothing	
+誓い	ちかい oath; vow	
+律	りつ 1: law (esp. ancient East Asian criminal code); regulation 2: vinaya (rules for the monastic community) 3: Ritsu (school of Buddhism) 4: lushi (style of Chinese poem) 5: (musical) pitch 6: six odd-numbered notes of the ancient chromatic scale 7: Japanese seven-tone gagaku scale, similar to Dorian mode (corresponding to: re, mi, fa, so, la, ti, do) 8: (in traditional Eastern music) step (corresponding to a Western semitone)	
+塾	じゅく coaching school; cramming school; juku	
+結構	"けっこう 1: splendid; nice; wonderful; delicious; sweet 2: sufficient; fine (in the sense of ""I'm fine""); (by implication) no thank you 3: well enough; OK; tolerable 4: reasonably; fairly; tolerably 5: construction; architecture"	
+志望校	しぼうこう school of one's (first, second) choice	
+復習	ふくしゅう review; revision	
+徹底的	てっていてき thorough; complete	
+模擬	もぎ 1: imitation; sham; mock 2: simulation	
+判定	はんてい judgement; judgment; decision; adjudication; award; verdict; determination	
+倍率	ばいりつ 1: magnification; leverage; amplification; scaling factor; scale factor 2: acceptance rate; pass rate (of an exam, etc.)	
+三倍	さんばい three-fold; three times	
+判明	はんめい establishing; proving; identifying; confirming	
+枠	わく 1: frame; framework 2: border; box 3: limit; restriction; quota	
+焦る	あせる to be in a hurry; to be impatient; to be flustered; to lose one's presence of mind; to be surprised	
+目覚まし時計	めざましどけい alarm clock	
+目覚まし時計	めざましどけい alarm clock	
+支度	したく preparation; arrangements	
+会場	かいじょう assembly hall; meeting place; venue; grounds	
+教科	きょうか subject; curriculum	
+解	かい solution (of equation)	
+試験監督	しけんかんとく proctoring of an exam; invigilation	
+監督	かんとく 1: supervision; control; superintendence; direction 2: director; superintendent; supervisor; coach; foreman; manager; overseer; controller; boss	
+解答欄	かいとうらん answer column (section)	
+鉛筆	えんぴつ pencil	
+催眠術	さいみんじゅつ hypnotism	
+罰	ばち (divine) punishment; curse; retribution	
+報復	ほうふく retribution; revenge; retorsion	
+酬い	むくい reward; recompense; return; punishment; retribution	
+冥暗	めいあん gloom; shade	
+冥々	めいめい dark; invisible	
+牢	ろう prison; jail; gaol	
+牢乎	ろうこ firm; solid	
+混雑	こんざつ confusion; congestion	
+混迷	こんめい turmoil; chaos; confusion	
+民主	みんしゅ 1: democracy; popular sovereignty 2: democratic	
+欽定	きんてい authorized; authorised; appointed	
+独裁者	どくさいしゃ dictator; despot	
+仆れる	たおれる 1: to be forced to bed (by illness, etc.) 2: to die 3: to go bankrupt; to be ruined; to have a bad debt 4: to be defeated (in a game) 5: to fall (of governments, dictators, etc.)	
+斃す	たおす to kill; to defeat; to beat	
+唇	くちびる lips	
+屈す	くす to feel down	
+構い手	かまいて companion	
+短編	たんぺん short (e.g. story, film)	
+旅	たび travel; trip; journey	
+誤	ご mistake; error	
+選挙	せんきょ election	
+票決	ひょうけつ vote; ballot	
+投票	とうひょう voting; poll	
+診断	しんだん diagnosis; medical examination	
+所持	しょじ possession; owning	
+昇給	しょうきゅう salary raise	
+伸びる	のびる 1: to stretch; to extend; to lengthen; to spread 2: to make progress; to grow (beard, body height) 3: to grow stale (soba) 4: to be straightened; to be flattened; to be smoothed 5: to be exhausted	
+睡眠を取る	すいみんをとる to get sleep; to sleep	
+賑わう	にぎわう to prosper; to flourish; to do thriving business; to be crowded with people	
+盛り上る	もりあがる 1: to swell; to rise; to bulge; to be piled up 2: to rouse; to get excited	
+反省	はんせい reflection; reconsideration; introspection; meditation; contemplation	
+反省会	はんせいかい meeting for reviewing (e.g. past activities of the club)	
+反省の色なし	はんせいのいろなし showing no sign of remorse or regret	
+日差し	ひざし sunlight; rays of the sun	
+赤面	せきめん 1: blushing; getting red in the face 2: embarrassment	
+潮紅	ちょうこう blushing	
+幻覚	げんかく hallucination; illusion	
+幻影	げんえい phantom; vision; illusion	
+幻	まぼろし phantom; vision; illusion; dream	
+従業員	じゅうぎょういん employee; worker	
+職業	しょくぎょう occupation; business	
+無職	むしょく without an occupation	
+輪止め	わどめ 1: brakes 2: wheel stops; wedges; blocks; parking curbs	
+駐輪	ちゅうりん parking one's bicycle	
+構想	こうそう plan; plot; idea; conception	
+苺	いちご strawberry (esp. the garden strawberry, Fragaria x ananassa)	
+扉	とびら 1: door; gate; opening 2: title page	
+戸口	とぐち door; doorway	
+酷	こく 1: severe; harsh; stringent; rigorous; strict; unfair 2: body (esp. of food, wine, etc.); weight; substance	
+掛軸	かけじく hanging scroll	
+掛け	かけ 1: credit 2: money owed on an account; bill 3: hot noodles in broth 4: proportion (of wholesale price, as tenths of list price) 5: in the midst of 6: rest; rack; hanger	
+掛	がかり charge; duty; person in charge; official; clerk	
+塊	かたまり lump; mass; bundle; clump; clod; cluster	
+歓迎会	かんげいかい welcome party	
+評判	ひょうばん 1: fame; reputation; popularity 2: rumour (rumor); talk	
+偏り	かたより 1: deviation; inclination; offset; bias; prejudice 2: polarization; polarisation	
+栄養	えいよう nutrition; nourishment	
+たっぷり	full; in plenty; ample	
+腐る	くさる 1: to rot; to go bad; to decay; to spoil; to fester; to decompose; to turn sour (e.g. milk) 2: to corrode; to weather; to crumble 3: to become useless; to blunt; to weaken (from lack of practice) 4: to become depraved; to be degenerate; to be morally bankrupt; to be corrupt 5: to be depressed; to be dispirited; to feel discouraged; to feel down 6: (ksb:) indicates scorn or disdain for another's action 7: to lose a bet 8: to be drenched; to become sopping wet	
+賞味期限	しょうみきげん best if eaten by this date	
+粗末に扱う	そまつにあつかう to handle (a thing) roughly	
+粗末	そまつ crude; rough; plain; humble	
+農薬	のうやく agricultural chemical (i.e. pesticide, herbicide, fungicide, etc.); agrochemical; agrichemical	
+綿	わた 1: cotton plant (Gossypium spp.) 2: batting; wadding; padding	
+強姦	ごうかん rape; sexual assault	
+豪華	ごうか wonderful; gorgeous; splendor; splendour; pomp; extravagance	
+済ませる	すませる to finish; to make an end of; to get through with; to let end	
+掃除	そうじ cleaning; sweeping	
+縁	ふち rim; brim; edge; brink	
+麺	めん noodles	
+さっぱり	1: feeling refreshed; feeling relieved 2: neat; trimmed 3: plain; simple 4: completely; entirely 5: not in the least (in sentence with negative verb); not at all 6: completely ignorant; not doing at all	
+お腹	おなか stomach	
+消化	しょうか 1: digestion 2: thorough understanding 3: selling accumulated (excess) products; dealing with a large amount of work 4: losing one's form and turning into something else	
+塩分	えんぶん salt; salt content	
+漏る	もる to leak; to run out	
+遠近法	えんきんほう perspective	
+傾く	かたむく 1: to incline toward; to slant; to lurch; to heel over; to be disposed to; to trend toward; to be prone to 2: to go down (sun); to wane; to sink; to decline	
+認める	みとめる 1: to recognize; to recognise; to observe; to notice 2: to deem; to judge; to assess 3: to approve; to deem acceptable; to allow 4: to admit; to accept; to confess (to a charge) 5: to watch steadily; to observe carefully 6: to renown; to give renown to; to appreciate; to acknowledge	
+荒野	あれの wasteland; wilderness; deserted land; prairie; vast plain; wilds; desert; wild land	
+漠然	ばくぜん obscure; vague; equivocal	
+鍋	なべ 1: saucepan; pot 2: stew; hot pot	
+鍋	なべ 1: saucepan; pot 2: stew; hot pot	
+炒める	いためる to cook; to fry; to saute; to stir-fry	
+偉大	いだい greatness	
+知恵	ちえ 1: wisdom; wit; sagacity; sense; intelligence 2: prajna (insight leading to enlightenment)	
+粗い	あらい coarse; rough	
+砕く	くだく to break; to smash	
+保つ	たもつ to keep; to preserve; to hold; to retain; to maintain; to support; to sustain; to last; to endure; to keep well (food); to wear well; to be durable	
+整理	せいり sorting; arrangement; organization; putting in order; adjustment; regulation; liquidation	
+順番	じゅんばん turn (in line); order of things; sequential order	
+乾き	かわき drying; dryness	
+乾燥	かんそう dryness; aridity; insipidity; dehydration; desiccation	
+砂糖	さとう sugar	
+漬ける	つける 1: to soak; to seep; to dip in 2: to pickle	
+縮み	ちぢみ 1: shrinkage 2: cotton crepe	
+裂ける	さける to split; to tear; to burst	
+悪影響	あくえいきょう bad influence; negative influence	
+効果	こうか effect; effectiveness; efficacy; result	
+克服	こくふく conquest (problem, disease, handicap, etc. e.g. poverty, illness); overcoming; bringing under control; subjugation; victory over	
+充実	じゅうじつ 1: fullness; completion; perfection; substantiality; enrichment 2: replenishment; repletion	
+踏む	ふむ 1: to step on; to tread on 2: to experience; to undergo 3: to estimate; to value; to appraise 4: to rhyme 5: to inherit (the throne, etc.) 6: to follow (rules, morals, principles, etc.)	
+頓挫	とんざ setback; at a standstill or impasse	
+整った	ととのった well-ordered; in good order; well-featured; well-regulated	
+端的	たんてき frank; direct; plain; straightforward; point-blank; concise	
+概念	がいねん general idea; concept; notion	
+幼い	おさない 1: very young 2: childish; immature	
+暴れる	あばれる to act violently; to rage; to struggle; to be riotous	
+思い込み	おもいこみ wrong impression; subjective impression; assumption; prejudice	
+従順	じゅうじゅん obedient; gentle; meek; submissive; docile	
+刷り	すり printing	
+刷り込み	すりこみ imprinting; stenciling	
+刷り込む	すりこむ to insert (an illustration); to stencil (a pattern); to print on	
+定着	ていちゃく taking hold; getting attached; becoming established; fixing down; establishing	
+培う	つちかう to cultivate; to foster	
+培養	ばいよう cultivation; nurture; culture	
+打ち壊す	うちこわす to destroy; to spoil; to crush; to break by striking; to wreck	
+容易	ようい easy; simple; plain	
+巡視	じゅんし inspection tour	
+巡る	めぐる 1: to go around 2: to return 3: to surround 4: to concern (usu. of disputes)	
+評価	ひょうか 1: valuation; estimation; assessment; evaluation 2: to value; to assess; to estimate value 3: to appreciate; to value highly; to acknowledge the value (of something)	
+穏やか	おだやか calm; gentle; quiet	
+凝った	こった elaborate; exquisite; tasteful; refined; artistic	
+沸かし湯	わかしゆ hot water (esp. cold mineral spring water heated up at the right temperature for bathing)	
+規則正しい	きそくただしい regular; well-regulated; systematic	
+手順	てじゅん process; procedure; sequence; protocol; instruction	
+整う	ととのう to be prepared; to be in order; to be put in order; to be arranged	
+俳優	はいゆう actor; actress; player; performer	
+脱げる	ぬげる to come off; to slip down; to slip off	
+蓄財	ちくざい amassing of wealth	
+要因	よういん main cause; primary factor	
+価値観	かちかん sense of values; values; value system	
+一昔前	ひとむかしまえ long ago; previous; of a former age	
+納付	のうふ payment; supply	
+禍	まが wickedness; evil; calamity; disaster	
+端的	たんてき frank; direct; plain; straightforward; point-blank; concise	
+示す	しめす 1: to (take out and) show; to demonstrate; to tell; to exemplify; to make apparent 2: to point out (finger, clock hand, needle, etc.) 3: to indicate; to show; to represent; to signify; to display	
+閾値	いきち threshold (amount, dose, etc.)	
+預貯金	よちょきん deposits and savings; bank account	
+一定	いってい fixed; settled; constant; definite; uniform; regularized; regularised; defined; standardized; standardised; certain; prescribed	
+削り取る	けずりとる to shave off; to scrape off	
+被害者	ひがいしゃ victim; injured party; sufferer	
+突き	つき 1: thrust; stab; lunge; pass (in fencing) 2: tsuki; thrust to the throat (in kendo) 3: (sumo) tsuki; thrust to the chest	
+根性	こんじょう will-power; guts; temper; nature; spirit	
+職種	しょくしゅ type of occupation; occupational category	
+入社試験	にゅうしゃしけん test for a position in a company; company entrance test	
+拒絶	きょぜつ refusal; rejection	
+厳しい	きびしい 1: severe; strict; rigid; unsparing; relentless 2: stern; austere; grave; solemn; majestic 3: intense (cold)	
+長時間	ちょうじかん long period of time; long playing	
+労働	ろうどう 1: manual labor; manual labour; toil; work 2: Labour Party	
+困窮	こんきゅう poverty; distress	
+貧困	ひんこん 1: poor; needy 2: lacking; meagre; meager	
+姿	すがた 1: figure; form; shape 2: appearance; dress; guise 3: state; condition; picture; image 4: form (of a waka) 5: dressed in ...; wearing ...	
+共働き	ともばたらき (husband and wife) both working; dual income	
+赤字	あかじ 1: deficit; (being in or going into) the red 2: red text; red letters 3: corrections (by a teacher or proofreader) written in red	
+収支	しゅうし income and expenditure	
+世帯	せたい household; home; family; housekeeping	
+赤字	あかじ 1: deficit; (being in or going into) the red 2: red text; red letters 3: corrections (by a teacher or proofreader) written in red	
+管理	かんり control; management (e.g. of a business)	
+薄給	はっきゅう small salary; meagre salary; meager salary	
+表向き	おもてむき outward appearance; ostensible; public; official	
+埋める	うずめる 1: to cover; to bury (e.g. one's face in hands); to submerge 2: to fill (completely); to stuff; to pack; to cram; to fill up	
+左程	さほど not so; not particularly; not very; not that much	
+高揚	こうよう enhancement; exaltation; promotion; uplift	
+最低限	さいていげん minimum	
+非日常	ひにちじょう the extraordinary; the unusual; the unexpected	
+買い物依存症	かいものいぞんしょう Compulsive Buying Disorder; CBD; shopaholicism	
+依存	いぞん dependence; dependent; reliance	
+依頼	いらい 1: request; commission; dispatch; despatch 2: dependence; trust	
+無駄遣い	むだづかい wasting ... on (e.g. money); squandering; waste; frittering away	
+元	もと 1: origin; source 2: base; basis; foundation; root 3: cause 4: ingredient; material 5: (somebody's) side; (somebody's) location 6: original cost (or capital, principal, etc.) 7: (plant) root; (tree) trunk 8: first section of a waka 9: handle (chopsticks, brush, etc.); grip	
+衝動的	しょうどうてき impulsive	
+浪費癖	ろうひぐせ wasteful habits	
+争い	あらそい dispute; strife; quarrel; dissension; conflict; rivalry; contest	
+姿を消す	すがたをけす to disappear	
+姿	すがた 1: figure; form; shape 2: appearance; dress; guise 3: state; condition; picture; image 4: form (of a waka) 5: dressed in ...; wearing ...	
+姿勢	しせい attitude; posture; stance; approach; carriage (of the body)	
+不和	ふわ friction; discord; trouble; dissension; disagreement	
+不和反目	ふわはんもく discord and hostility; feud	
+定着	ていちゃく taking hold; getting attached; becoming established; fixing down; establishing	
+成人	せいじん 1: adult 2: to grow up; to mature 3: to come of age	
+深層心理	しんそうしんり deep psyche; unconscious mind; depth psychology	
+一刻も早く	いっこくもはやく immediately; as soon as possible; as quickly as possible	
+善意	ぜんい 1: virtuous mind 2: good intentions; good will 3: positive mindset 4: (law) bona fides; good faith	
+競争	きょうそう 1: competition; contest 2: to compete	
+薫る	かおる to smell sweet; to be fragrant	
+凛	りん 1: cold; frigid; bracing 2: dignified	
+咲く	さく to bloom	
+奢る	おごる 1: to give (someone) a treat 2: to be extravagant; to live luxuriously 3: to be proud; to be haughty	
+お詫び	おわび apology	
+殴る	なぐる to strike; to hit	
+反動	はんどう reaction; recoil; kick; backlash	
+態と	わざと on purpose	
+勝手	かって 1: one's own convenience; one's way 2: convenience or ease of use; knowledge of how to use 3: circumstances; situation (e.g. financial); environment 4: kitchen 5: arbitrary 6: unauthorised (e.g. phone app, WWW site); unofficial	
+さっぱり	1: feeling refreshed; feeling relieved 2: neat; trimmed 3: plain; simple 4: completely; entirely 5: not in the least (in sentence with negative verb); not at all 6: completely ignorant; not doing at all	
+慣れる	なれる 1: to grow accustomed (to); to get too familiar with; to get used (to) 2: to become domesticated; to become tame	
+評価	ひょうか 1: valuation; estimation; assessment; evaluation 2: to value; to assess; to estimate value 3: to appreciate; to value highly; to acknowledge the value (of something)	
+欲	よく greed; craving; desire; avarice; wants	
+段差	だんさ difference in level	
+試練	しれん test; trial; probation; ordeal; tribulation	
+軌道	きどう 1: (astron) (physics) orbit; trajectory 2: railroad track 3: (on the right) track; going smoothly	
+叩く	たたく 1: to strike; to clap; to knock; to dust; to beat 2: to play drums 3: to abuse; to flame (e.g. on the Internet); to insult 4: to call; to invoke (e.g. a function)	
+接し方	せっしかた way of dealing with someone; attitude	
+慣れる	なれる 1: to grow accustomed (to); to get too familiar with; to get used (to) 2: to become domesticated; to become tame	
+膨らむ	ふくらむ to expand; to swell (out); to get big; to become inflated	
+イライラ	getting nervous; irritation	
+独自	どくじ original; peculiar; characteristic; proprietary; individual; on one's own; by oneself	
+基準	きじゅん standard; basis; criterion; norm; reference; datum	
+連絡先	れんらくさき contact address	
+積極性	せっきょくせい assertiveness; positiveness	
+没頭	ぼっとう immersing oneself	
+礼儀	れいぎ manners; courtesy; etiquette	
+裏切る	うらぎる to betray; to turn traitor to; to double-cross	
+親友	しんゆう close friend; bosom (old, intimate) friend; buddy; crony; chum	
+期待外れ	きたいはずれ disappointment; let-down	
+冒頭	ぼうとう beginning; start; outset	
+冒頭陳述	ぼうとうちんじゅつ opening statement	
+各自	かくじ individual; each	
+課題	かだい 1: subject; theme; issue; matter 2: homework; assignment 3: task; challenge; problem; question	
+朔	さく 1: (astron) new moon 2: first day of the lunar month 3: (in ancient China) next year's calendar and decrees (distributed by the Emperor at year's end)	
+朔	ついたち 1: first day of the month 2: first ten days of the lunar month	
+桔梗	ききょう Chinese bellflower; Platycodon grandiflorum	
+騒がしい	さわがしい 1: noisy; boisterous 2: turbulent (era, etc.); troubled	
+羨ましい	うらやましい 1: envious (feeling, etc.); jealous 2: enviable (position, etc.)	
+謝る	あやまる to apologize; to apologise	
+結局	けっきょく after all; eventually; in the end	
+喉	のど 1: throat 2: singing voice	
+校門	こうもん school gate	
+口が滑る	くちがすべる to make a slip of the tongue; to let something slip	
+滑稽	こっけい funny; humorous; humourous; comical; laughable; ridiculous; joking	
+滑る	すべる 1: to glide; to slide (e.g. on skis); to slip 2: to fail (an examination); to bomb (when telling a joke) 3: to drop; to go down; to come down; to fall (e.g. in status)	
+鼠	ねずみ 1: mouse; rat 2: dark gray; dark grey; slate (color, colour)	
+窃盗	せっとう theft; stealing; larceny	
+盗作	とうさく plagiarism	
+塁	るい 1: base (baseball); bag; sack 2: fortress; stronghold	
+塁を守る	るいをまもる to defend a fort	
+遭わす	あわす 1: to make (someone) to meet; to let (someone) meet 2: to expose to; to subject to	
+踏み出す	ふみだす 1: to step forward; to step forth; to advance 2: to start; to embark on; to set forth on; to take steps toward	
+帆	ほ sail	
+帆走	はんそう sailing	
+帆船	はんせん sailing ship; sailing boat; sailing vessel	
+満員電車	まんいんでんしゃ crowded train	
+感染症	かんせんしょう infectious disease; infection	
+流行	はやり 1: fashion; fad; vogue; craze 2: prevalence (e.g. of a disease)	
+支出	ししゅつ expenditure; expenses	
+予防	よぼう prevention; precaution; protection against	
+転落	てんらく fall; degradation; slump; spill	
+避難	ひなん taking refuge; finding shelter; evacuation; escape	
+線路	せんろ line; track; roadbed	
+係員	かかりいん official (e.g. customs); clerk in charge	
+申し出	もうしで proposal; request; claim; report; notice; offer	
+穏やか	おだやか calm; gentle; quiet	
+寿命	じゅみょう life span	
+延期	えんき postponement; adjournment	
+延滞	えんたい arrears; (being) overdue; delay (e.g. in payment); procrastination	
+延々	えんえん 1: forever; endlessly; on and on 2: meandering; wandering; winding; sinuous; serpentine; zigzagging	
+境界	きょうかい boundary	
+第	だい ordinal	
+課	か 1: lesson 2: section (in an organization); division; department 3: counter for lessons and chapters (of a book)	
+保健	ほけん health preservation; hygiene; sanitation	
+委員	いいん committee member	
+倒れる	たおれる 1: to fall; to collapse; to drop; to fall senseless 2: to be forced to bed (by illness, etc.) 3: to die 4: to go bankrupt; to be ruined; to have a bad debt 5: to be defeated (in a game) 6: to fall (of governments, dictators, etc.)	
+乱れる	みだれる 1: to be disordered; to be disarranged; to be disarrayed; to be disheveled; to be dishevelled 2: to be discomposed; to be upset; to get confused; to be disturbed 3: to lapse into chaos (due to war, etc.)	
+初日	しょにち first or opening day	
+遣らかす	やらかす to perpetrate; to do; to be guilty of	
+怪しい	あやしい 1: suspicious; dubious; doubtful; dodgy; suspicious (referring to a potential amorous relation); dangerous (e.g. financial situation); ominous (e.g. weather); strange; shady; fishy 2: charming; bewitching; mysterious	
+害	がい injury; harm; evil influence; damage	
+臆病	おくびょう cowardice; timidity	
+貴様	きさま 1: you; you bastard; you son of a bitch 2: you	
+殿下	でんか your Highness; his (or her) Highness	
+口の利き方	くちのききかた the way one talks; one's way of speaking	
+編入	へんにゅう admission; incorporation	
+謀る	たばかる 1: to work out a plan of deception; to scheme; to take in; to dupe; to deceive 2: to think up a plan; to think over a plan 3: to discuss; to consult	
+利き	きき 1: effectiveness; efficacy; efficaciousness 2: dominance (e.g. of left or right hand) 3: tasting (alcohol, tea, etc.)	
+不敬	ふけい disrespect; irreverence; impiety; blasphemy; profanity	
+癖	くせ 1: habit (often a bad habit, i.e. vice); tendency 2: peculiarity; idiosyncrasy; mannerism 3: crease; wrinkle; curl; kink	
+信頼	しんらい reliance; trust; faith; confidence	
+勝ち取る	かちとる to exert oneself and win; to gain (victory)	
+胸を張る	むねをはる to throw out one's chest; to be puffed up with pride	
+誇る	ほこる to boast of; to be proud of	
+採用	さいよう 1: use; adoption; acceptance 2: appointment; employment; engagement; recruitment	
+飼う	かう to keep (a pet or other animal); to raise; to have; to own; to feed	
+女将	おかみ mistress; landlady; hostess; proprietress	
+主人公	しゅじんこう 1: protagonist; main character; hero(ine) (of a story) 2: head of household	
+靴下	くつした socks; sock; stockings; stocking	
+個性	こせい individuality; personality; idiosyncrasy	
+爆発	ばくはつ explosion; detonation; eruption	
+性欲	せいよく sexual desire	
+由来	ゆらい origin; source; history; derivation; reason; destiny	
+果て	はて the end; the extremity; the limit; the limits; the result	
+美意識	びいしき sense of beauty; aesthetic sense	
+延長	えんちょう 1: extension; elongation; prolongation; lengthening 2: Enchou era (923.4.11-931.4.26)	
+集積	しゅうせき accumulation	
+見極め	みきわめ ascertainment	
+見極める	みきわめる to see through; to probe; to make sure of	
+延びる	のびる 1: to stretch; to extend; to lengthen; to spread 2: to make progress; to grow (beard, body height) 3: to grow stale (soba) 4: to be straightened; to be flattened; to be smoothed 5: to be exhausted 6: to be postponed; to be prolonged	
+溺れる	おぼれる 1: to drown; to nearly drown; to sink below the surface (of water) 2: to indulge in; to lose one's head over something; to wallow in	
+冷静	れいせい calm; composure; coolness; serenity	
+慎重	しんちょう careful; cautious; prudent; discreet; deliberate	
+輪郭	りんかく 1: contour; outline; border; silhouette 2: summary; outline; sketch 3: looks; features; appearance	
+反射率	はんしゃりつ reflectance	
+横	よこ 1: horizontal (as opposed to vertical); lying down 2: side-to-side (as opposed to front-to-back); width; breadth 3: side (of a box, etc.) 4: beside; aside; next to 5: unconnected	
+提供	ていきょう offer; tender; program sponsoring; programme sponsoring; furnishing; provisioning; supply	
+魂	たましい soul; spirit	
+人種差別	じんしゅさべつ racial discrimination; racism	
+検索	けんさく looking up (e.g. a word in a dictionary); retrieval (e.g. data); searching for; referring to	
+小児性愛	しょうにせいあい paedophilia; pedophilia; pederosis	
+女性蔑視	じょせいべっし discrimination against women; female discrimination	
+人種差別	じんしゅさべつ racial discrimination; racism	
+非効率	ひこうりつ inefficient	
+自閉症	じへいしょう 1: autism 2: autistic	
+変態	へんたい 1: transformation; metamorphosis 2: abnormality; pervert	
+西洋	せいよう the west; Western countries	
+強盗	ごうとう 1: robber; mugger 2: robbery; burglary	
+強姦	ごうかん rape; sexual assault	
+誇張	こちょう exaggeration	
+偏見	へんけん prejudice; narrow view	
+主張	しゅちょう claim; request; insistence; assertion; advocacy; emphasis; contention; opinion; tenet	
+反論	はんろん objection; refutation; rebuttal	
+民度	みんど cultural standard	
+接する	せっする 1: to come in contact with; to touch; to connect (with) 2: to attend (to) 3: to receive (visitors)	
+通じる	つうじる 1: to be open (to traffic); to lead to; to communicate (with) 2: to flow (liquid, current); to pass; to get through to 3: to be understood; to be comprehended 4: to be honored; to be good 5: to be well versed in; to be well-informed 6: to communicate clandestinely; to keep in touch (e.g. with the enemy) 7: to form a liaison; to be intimate	
+貸出期間	かしだしきかん lending-period; period of loan (e.g. for a library book)	
+立ち尽くす	たちつくす to stand stock still	
+乱す	みだす to throw out of order; to disarrange; to disturb	
+滲む	にじむ to run; to blur; to spread; to blot; to ooze	
+残像	ざんぞう afterimage; imprint	
+横たわる	よこたわる to lie down; to stretch out	
+裂く	さく 1: to tear; to rip up 2: to cut up; to cleave; to cut open (esp. the abdomen) 3: to forcibly separate (i.e. two lovers) 4: to have a tattoo in the corner of one's eye	
+畝ねり	うねり wave motion; undulation; winding; heaving sea; swell; roller	
+零れ落ちる	こぼれおちる to spill over and fall; to scatter (petals, leaves, etc.)	
+呑み込む	のみこむ 1: to gulp down; to swallow deeply 2: to understand; to take in; to catch on to; to learn; to digest	
+息を吐く	いきをつく to take a breath; to take a short rest	
+旗色	はたいろ 1: situation; outlook 2: one's allegiance; affiliation; position	
+旗	はた flag	
+艦	かん warship	
+艦船	かんせん (ocean) vessels; warship	
+砲	ほう gun; cannon; artillery; ordnance	
+砲火	ほうか gunfire; fire	
+情けない	なさけない miserable; pitiable; shameful; deplorable	
+怪訝	けげん dubious; puzzled; suspicious	
+漆器	しっき lacquer ware; lacquerware; lacquer work; lacquerwork	
+政府	せいふ government; administration	
+散々	さんざん 1: thoroughly; completely; utterly 2: severely; harshly; terribly; miserably; wretchedly; badly 3: scattered; disconnected; dispersed; smashed into tiny pieces	
+優秀	ゆうしゅう superiority; excellence	
+開催	かいさい holding a meeting; open an exhibition	
+爺さん	じいさん 1: grandfather (may be used after name as honorific) 2: male senior-citizen (may be used after name as honorific)	
+継ぐ	つぐ to succeed (someone in a business or inheritance)	
+入り浸る	いりびたる 1: to stay long; to hang around; to hang out 2: to be immersed; to be soaked; to seep in	
+派遣	はけん dispatch; despatch; deployment	
+密か	ひそか secret; private; surreptitious	
+探し求める	さがしもとめる to search for; to seek for; to look for	
+胸を躍らせる	むねをおどらせる to make one's heart flutter; to be excited	
+鑑賞	かんしょう appreciation (e.g. of art); aesthetic sense	
+懲りる	こりる to learn by experience; to be disgusted with	
+懲戒	ちょうかい discipline; punishment; reprimand	
+形骸化	けいがいか becoming a mere shell or dead letter	
+愚痴	ぐち 1: idle complaint; grumble 2: moha (ignorance, folly)	
+控える	ひかえる 1: to be temperate in; to restrain oneself from excessive ... 2: to make notes 3: to hold back 4: to be in preparation for; to be in waiting for 5: to be soon; to be in the offing 6: to be in a close relationship (e.g. as a backer, etc.)	
+漏れる	もれる to leak out; to escape; to come through; to shine through; to filter out; to be omitted	
+真面目	まじめ diligent; serious; honest; sober; grave; earnest; steady	
+狂気	きょうき madness; insanity	
+狂う	くるう 1: to go mad 2: to get out of order; to go amiss	
+勘弁	かんべん pardon; forgiveness; forbearance	
+繰る	くる 1: to reel; to wind; to spin (thread) 2: to turn (pages); to flip through (a book); to leaf through (a book); to consult (a dictionary); to refer to (an encyclopedia) 3: to count (e.g. the days) 4: to open one-by-one; to close one-by-one (e.g. shutters)	
+蜘蛛	くも spider	
+細蟹	ささがに spider; spider silk	
+序盤	じょばん the opening(s) (e.g. in a game of go or chess)	
+等しい	ひとしい equal; similar; like; equivalent	
+脈	みゃく 1: pulse 2: vein 3: chain (of mountains, etc.) 4: hope 5: thread (of an argument)	
+遭遇	そうぐう encounter	
+宅配便	たくはいびん 1: express home delivery service 2: express home delivery parcel (box, etc.)	
+忌	いみ 1: mourning; abstinence 2: taboo 3: religious purification 4: pure; holy	
+儀式	ぎしき ceremony; rite; ritual; service	
+陰気臭い	いんきくさい dismal; gloomy	
+範	はん example; model	
+範囲	はんい extent; scope; sphere; range; span	
+広範囲	こうはんい extensive; vast range; wide scope	
+婆さん	ばあさん 1: grandmother 2: female senior citizen	
+澄む	すむ to clear (e.g. weather); to become transparent	
+鼻血	はなぢ nosebleed	
+獣	けだもの beast; brute; animal	
+空砲	くうほう empty gun; gun loaded with blanks; firing a blank	
+誤作動	ごさどう malfunction; failure	
+林道	りんどう path through forest; woodland path	
+相殺	そうさい offsetting each other; plus and minus equal zero; counterbalancing	
+疑惑	ぎわく doubt; misgivings; distrust; suspicion	
+潰す	つぶす 1: to smash; to crush 2: to shut down 3: to thwart; to block 4: to kill (time) 5: to waste (e.g. talents)	
+蛮族	ばんぞく savage tribe	
+お釣り	おつり change (i.e. money); balance	
+火災	かさい conflagration; fire	
+地震	じしん earthquake	
+避難	ひなん taking refuge; finding shelter; evacuation; escape	
+遠隔監視	えんかくかんし remote supervision	
+非常	ひじょう 1: emergency 2: extraordinary; unusual	
+故障	こしょう 1: breakdown; failure; fault; accident; out of order 2: damage; hurt 3: objection; protest	
+管理	かんり control; management (e.g. of a business)	
+下記	かき the following	
+霊感	れいかん 1: inspiration; afflatus 2: ability to sense the supernatural (esp. ghosts, etc.)	
+推奨	すいしょう recommendation; endorsement	
+推奨環境	すいしょうかんきょう system requirements (i.e. recommended hardware and software to run a package)	
+人混み	ひとごみ crowd of people	
+惹かれる	ひかれる to be charmed by; to be attracted to; to be taken with; to be drawn to	
+素材	そざい raw materials; subject matter	
+冷静	れいせい calm; composure; coolness; serenity	
+工夫	くふう 1: scheme; device; scheming; devising; figuring out; coming up with; solving ingeniously 2: dedication to spiritual improvement (esp. through Zen meditation)	
+集団	しゅうだん group; mass	
+幽霊	ゆうれい ghost; specter; spectre; apparition; phantom	
+耐性	たいせい resistance (e.g. to antibiotics)	
+濃い	"こい 1: deep (colour); dark 2: strong (flavour, smell, etc.) 3: thick (consistency); dense 4: strong (possibility, etc.) 5: thick (i.e. ""as thick as thieves""); close; deep (love, etc.)"	
+引き寄せる	ひきよせる to draw or pull something towards oneself (e.g. chair)	
+入浴剤	にゅうよくざい bathing powder; bathwater additive	
+餌	えさ feed; bait	
+当番	とうばん being on duty	
+成長期	せいちょうき growth period; growing season	
+襲う	おそう 1: to attack; to assail; to make an assault; to strike; to hunt down 2: to succeed (someone in a post, role, etc.) 3: to make a sudden visit	
+脚	あし 1: foot 2: leg 3: gait 4: pace 5: bottom structural component (i.e. radical) of a kanji 6: money; coin	
+植物	しょくぶつ plant; vegetation	
+大人っぽい	おとなっぽい adult-like	
+ふらつく	1: to feel giddy; to totter; to stagger 2: to be unfixed (emotions, beliefs, etc.); to waver 3: to wander aimlessly; to loiter; to putter	
+被害者	ひがいしゃ victim; injured party; sufferer	
+処理	しょり processing; dealing with; treatment; disposition; disposal	
+遂に	ついに 1: finally; at last 2: in the end	
+鹿	しか deer (esp. the sika deer, Cervus nippon)	
+跨る	またがる 1: to extend over or into 2: to straddle	
+細い	ほそい 1: thin; slender; fine 2: unlucky (billiards slang)	
+骨折	こっせつ bone fracture	
+いい加減	いいかげん 1: irresponsible; perfunctory; careless 2: lukewarm; half-baked; halfhearted; vague 3: reasonable; moderate (usu. in suggestions or orders) 4: considerably; quite; rather; pretty	
+奴ら	やつら they; those guys	
+出禁	できん banishment; being forbidden to enter	
+暴力	ぼうりょく violence; mayhem	
+終止符を打つ	しゅうしふをうつ put an end (to); close the books (on)	
+細胞	さいぼう cell (biology)	
+刻	こく 1: archaic period of time (usu. a period of approx. two hours corresponding to one of the signs of the Chinese zodiac) 2: carving; engraving; cutting; mincing 3: strictness; cruelty	
+極	ごく 1: quite; very 2: 10^48; quindecillion (short scale); octillion (long scale)	
+魔王	まおう devil king	
+王族	おうぞく royalty	
+カピカピ	crusty; flaky; dried out	
+零す	こぼす 1: to spill; to drop; to shed (tears) 2: to grumble; to complain 3: to let one's feelings show	
+バレる	to leak out (a secret); to be exposed (a lie, improper behaviour, etc.) (behavior)	
+つい	1: just (now) 2: quite (near) 3: unintentionally; unconsciously; by mistake; against one's better judgement (judgment)	
+事務室	じむしつ office	
+修理	しゅうり repairing; mending; servicing	
+混む	こむ 1: to be crowded; to be packed 2: to be complex	
+化粧	けしょう make-up; makeup; cosmetics	
+節約	せつやく economising; saving	
+乗客	じょうきゃく passenger	
+構わない	かまわない no problem; it doesn't matter	
+風景	ふうけい scenery	
+指導	しどう 1: leadership; guidance; coaching 2: shido (disciplinary action for a minor infringement of the rules of judo)	
+サボる	to be truant; to play hooky; to skip school; to skip out; to be idle; to sabotage by slowness	
+機関	きかん 1: engine 2: agency; organisation; organization; institution; organ; body 3: system; facility; facilities	
+方式	ほうしき form; method; system; formula	
+秩序	ちつじょ order; regularity; system; method	
+筋道	すじみち reason; logic; thread; method; system	
+体制	たいせい order; system; structure; set-up; organization; organisation	
+系列	けいれつ 1: series; sequence; system; order of succession 2: keiretsu (conglomeration of businesses linked by cross-shareholdings)	
+組職	そしき 1: organization; organisation 2: structure; construction 3: tissue 4: system	
+冠	かうぶり order; rank	
+臭い	くさい 1: stinking; smelly 2: suspicious; fishy 3: clumsy	
+ふとした	impulsive; unexpected; accidental; casual; inadvertent; on a whim	
+浮かり	うかり carelessly; thoughtlessly; inadvertently	
+捧げる	ささげる to lift up; to give; to offer; to consecrate; to devote; to sacrifice; to dedicate	
+実施	じっし enforcement; implementation; putting into practice; carrying out; operation; working (e.g. working parameters); enactment	
+報告書	ほうこくしょ (written) report	
+集合	しゅうごう 1: gathering; assembly; meeting 2: set	
+会議室	かいぎしつ conference room; council room	
+職員	しょくいん staff member; personnel	
+質疑応答	しつぎおうとう question and answer session	
+施設	しせつ 1: institution; establishment; facility 2: (army) engineer	
+展示	てんじ exhibition; display	
+壊れる	こわれる 1: to be broken; to break 2: to fall through; to come to nothing	
+修理	しゅうり repairing; mending; servicing	
+解散	かいさん breakup; dissolution	
+清潔	せいけつ 1: clean; hygienic; sanitary 2: pure; virtuous; immaculate	
+早退	そうたい leave early	
+技術力	ぎじゅつりょく technological strength	
+評価	ひょうか 1: valuation; estimation; assessment; evaluation 2: to value; to assess; to estimate value 3: to appreciate; to value highly; to acknowledge the value (of something)	
+鉄鉱石	てっこうせき iron ore	
+石油	せきゆ oil; petroleum; kerosene	
+得る	える 1: to get; to earn; to acquire; to procure; to gain; to secure; to attain; to obtain; to win 2: to understand; to comprehend 3: to receive something undesirable (e.g. a punishment); to get (ill) 4: (after the -masu stem of a verb) to be able to ..., can ...	
+利益	りえき 1: profit; gains 2: benefit; advantage; interest (of the public, etc.)	
+益	えき 1: benefit; use; good; advantage; gain 2: profit; gains	
+寝坊	ねぼう 1: sleeping in late; oversleeping 2: late riser; sleepyhead	
+時刻表	じこくひょう table; diagram; chart; timetable; schedule	
+遅刻	ちこく lateness; late coming	
+余裕	よゆう surplus; composure; margin; room; time; allowance; flexibility; scope; rope	
+様子	ようす 1: state; state of affairs; situation; circumstances 2: appearance; look; aspect 3: sign; indication	
+平日	へいじつ weekday; ordinary days (i.e. non-holiday)	
+済む	すむ 1: to finish; to end; to be completed 2: to merely result in something less severe than expected 3: to feel at ease 4: to feel unease or guilt for troubling someone; to be sorry	
+損	そん loss; disadvantage	
+複雑	ふくざつ complex; complicated; mixed (feelings)	
+間隔	かんかく space; interval; SPC	
+悪意	あくい 1: ill will; spite; evil intention; malice 2: bad meaning 3: (law) mala fides; bad faith; criminal intent to deceive 4: (law) malice	
+軽率	けいそつ rash; thoughtless; careless; hasty; imprudent	
+発言	はつげん utterance; speech; proposal	
+慎む	つつしむ 1: to be careful; to be discreet 2: to do in moderation; to refrain (from overdoing); to abstain 3: to be purified; to be chaste	
+胸を躍らせる	むねをおどらせる to make one's heart flutter; to be excited	
+赫う	かがよう to shimmer; to sparkle	
+虚しく	むなしく in vain; to no purpose; fruitlessly	
+彷徨	ほうこう 1: wandering; rambling; roaming 2: fluctuation; variation	
+短期	たんき short term	
+通訳	つうやく interpretation (i.e. oral translation); interpreter	
+時給	じきゅう hourly pay; hourly wage	
+赴任	ふにん moving to a different location to start a new job; (proceeding to) new appointment	
+負担	ふたん burden; charge; responsibility	
+添付	てんぷ attachment (e.g. email); appendix (e.g. of a report, document, etc); annex; appendage; annexure	
+ご覧ください	ごらんください please look at it	
+扱い	あつかい treatment; service	
+扱う	あつかう to handle; to deal with; to treat	
+飼う	かう to keep (a pet or other animal); to raise; to have; to own; to feed	
+反抗	はんこう opposition; resistance; insubordination; defiance; hostility; rebellion	
+純粋	じゅんすい pure; true; genuine; unmixed	
+不自由	ふじゆう 1: discomfort; inconvenience 2: poverty; want; destitution 3: disability; impairment (physical, mental, etc.)	
+譲る	ゆずる 1: to turn over; to assign; to hand over; to transmit; to convey; to sell; to dispose of 2: to yield; to surrender; to concede	
+素直	すなお 1: obedient; meek; docile; unaffected 2: honest; frank; upfront (about one's feelings)	
+情報機器	じょうほうきき information systems	
+発達	はったつ development; growth	
+範囲	はんい extent; scope; sphere; range; span	
+憂鬱	ゆううつ depression; melancholy; dejection; gloom	
+整頓	せいとん orderliness; put in order; tidying up; arranging neatly	
+整理	せいり sorting; arrangement; organization; putting in order; adjustment; regulation; liquidation	
+減らす	へらす to abate; to decrease; to diminish; to shorten	
+配置	はいち arrangement (of resources); deployment; stationing; posting; disposition	
+徹底的	てっていてき thorough; complete	
+取り組む	とりくむ to tackle; to wrestle with; to engage in a bout; to come to grips with; to make effort; to strive for; to deal with	
+割	わり 1: rate; ratio; proportion; percentage 2: profit 3: assignment 4: 10%; unit of ten percent 5: (sumo) match; schedule of matches 6: diluted with (of drinks); mixed with	
+処分	しょぶん 1: disposal; dealing (with a problem); disposition; measure; procedure 2: punishment 3: putting down (e.g. diseased animal)	
+証拠隠滅	しょうこいんめつ destruction of evidence	
+昇天	しょうてん death; the Ascension	
+体調	たいちょう physical condition	
+平気	へいき 1: coolness; calmness; composure; unconcern 2: all right; OK; okay	
+薄情	はくじょう unfeeling; heartless; cold-hearted; cruel	
+包丁	ほうちょう 1: kitchen knife; carving knife 2: cooking; food	
+刃物	はもの edged tool; cutlery	
+刃物三昧	はものざんまい (engaging in a) knife fight	
+憑依	ひょうい 1: dependence; depending on 2: possession (by a spirit, etc.)	
+悪霊	あくりょう evil spirit	
+耐性	たいせい resistance (e.g. to antibiotics)	
+達磨	だるま 1: daruma; tumbling doll; round, red-painted good-luck doll in the shape of Bodhidharma, with an blank eye to be completed when a person's wish is granted 2: Bodhidharma 3: prostitute	
+廃村	はいそん ghost town; deserted village; village without inhabitants	
+伸び	のび 1: growth; development 2: stretching (e.g. body when waking up) 3: spread; elongation; extension; carry (e.g. of sound); sustain	
+冥福	みょうふく happiness in the next world	
+お祈り	おいのり prayer; supplication	
+捧げ物	ささげもの offering; sacrifice	
+引き換え	ひきかえ 1: exchange; conversion 2: on the contrary; on the other hand	
+齎す	もたらす to bring; to take; to bring about	
+目的地	もくてきち place of destination	
+寄付	きふ contribution; donation	
+要素	ようそ 1: component; factor; item (e.g. in list) 2: element (e.g. in array); member (e.g. data structure)	
+活性酸素	かっせいさんそ reactive oxygen (i.e. free radicals, which can be destructive at high concentrations)	
+酸素	さんそ oxygen	
+仕組み	しくみ 1: structure; construction; arrangement; contrivance 2: plan; plot; contrivance	
+快適	かいてき pleasant; agreeable; comfortable	
+体温	たいおん temperature; body temperature (human, animal)	
+調節	ちょうせつ regulation; adjustment; control	
+神経	しんけい nerve; sensitivity	
+治る	なおる 1: to be cured; to get well; to be healed 2: to get mended; to be repaired; to be fixed	
+症状	しょうじょう symptoms; condition	
+具合	ぐあい condition; state; manner; health	
+体調不良	たいちょうふりょう poor physical health; bad shape	
+汚れ	よごれ dirt; filth	
+真っ白	まっしろ pure white	
+集団	しゅうだん group; mass	
+注文	ちゅうもん order; request	
+荒い	あらい rough; rude; wild	
+心地よい	ここちよい comfortable; pleasant	
+我が儘	わがまま 1: selfishness; egoism; self-indulgence; wilfulness; willfulness 2: disobedience 3: whim	
+買取	かいとり 1: purchase; sale (transaction) 2: purchase on a no-return policy 3: lump-sum payment; flat fee	
+勘弁	かんべん pardon; forgiveness; forbearance	
+佳境	かきょう climax (story); best part; most interesting part	
+疎遠	そえん estrangement; neglect; silence	
+情け	なさけ 1: pity; sympathy; compassion; mercy 2: affection	
+贅沢	ぜいたく 1: luxury; extravagance 2: to live in luxury	
+機械的	きかいてき mechanical	
+馴染み	なじみ intimacy; friendship; familiarity	
+寄る	よる 1: to approach; to draw near; to come near; to be close to 2: to gather (in one place); to come together; to meet 3: to stop by (while on one's way to another place); to drop by; to make a short visit 4: to grow old; to grow high (number, etc.) 5: to grow (wrinkly) 6: to lean against; to recline on 7: (sumo) to push one's opponent while holding their belt 8: to decide on a price and come to a deal 9: to be swayed by (a person); to yield to	
+不自然	ふしぜん unnatural; artificial; affected; strained	
+漆黒	しっこく jet black	
+染め	そめ dyeing; printing	
+橘	たちばな tachibana (inedible citrus, Citrus tachibana)	
+揺れる	ゆれる to shake; to sway	
+横顔	よこがお face in profile; profile; face seen from the side	
+透明	とうめい transparency; cleanness	
+平気	へいき 1: coolness; calmness; composure; unconcern 2: all right; OK; okay	
+輪郭	りんかく 1: contour; outline; border; silhouette 2: summary; outline; sketch 3: looks; features; appearance	
+順番	じゅんばん turn (in line); order of things; sequential order	
+滑らす	ずらす 1: to shift; to slide (e.g. something away from something else); to move (e.g. something out of the way) 2: to put off; to delay; to postpone; to stagger (e.g. working hours)	
+郷	きょう 1: hometown 2: rural township (of China)	
+特徴	とくちょう feature; trait; characteristic; pecularity; distinction	
+暗闇	くらやみ darkness; the dark	
+厳か	おごそか solemn (e.g. ceremony, atmosphere); austere; majestic; dignified; stately; awful; impressive	
+効用	こうよう use; utility; effect; benefit	
+帯を締める	おびをしめる do up a sash	
+怪我	けが injury (to animate object); hurt	
+高齢者	こうれいしゃ old person; old people	
+齢	よわい (one's) age	
+封印	ふういん 1: seal; stamp 2: to stamp; to affix a seal; to seal up; to seal off	
+避雷針	ひらいしん lightning rod	
+塊	かたまり lump; mass; bundle; clump; clod; cluster	
+地獄	じごく hell	
+輪廻	りんね samsara (endless cycle of death and rebirth); Buddhism transmigration of souls	
+輪	わ 1: ring; circle; loop 2: hoop 3: wheel 4: circle (e.g. of friends)	
+外側	そとがわ exterior; outside; outer; external; lateral	
+側	そば near; close; beside; vicinity; proximity; besides; while	
+大飢饉	だいききん severe famine	
+前脚	ぜんきゃく forefoot; forefeet; foreleg; forelimb	
+催促	さいそく pressing; demanding; urging; demand; request; claim	
+高齢者	こうれいしゃ old person; old people	
+下水	げすい 1: drainage; ditch; gutter; sewerage 2: sewage; black water	
+汚泥	おでい dirty mud	
+処理	しょり processing; dealing with; treatment; disposition; disposal	
+基礎	きそ foundation; basis	
+排水	はいすい drainage	
+尿	にょう urine	
+除去	じょきょ removal; getting rid of	
+機能	きのう function; facility; faculty; feature	
+参った	まいった I'm beaten; I give up	
+従う	したがう to abide (by the rules); to obey; to follow; to accompany	
+諺	ことわざ proverb; maxim	
+正気	しょうき sanity; consciousness; soberness	
+侵略	しんりゃく aggression; invasion; raid	
+侵略的	しんりゃくてき aggressive	
+証明	しょうめい proof; verification	
+証明書	しょうめいしょ certificate (usually of proof of something); credentials	
+完全	かんぜん perfection; completeness	
+確り	しっかり 1: tightly (holding on); firmly; securely 2: strongly (built); solidly; sturdily; steadily 3: properly; well; sufficiently; hard (working, etc.) 4: reliably; dependably; levelheadedly; shrewdly; wisely; cleverly	
+妙	みょう 1: strange; unusual 2: (something) superb; (something) excellent	
+霊媒	れいばい spirit medium	
+師	し 1: teacher; master; one's mentor 2: religious leader 3: specialist 4: five-battalion brigade comprising 2500 men (Zhou-dynasty Chinese army)	
+祓う	はらう to exorcise; to cleanse; to purify	
+常に	つねに always; constantly	
+警戒	けいかい 1: vigilance; precaution; watch; lookout; alertness 2: to be vigilant; to be cautious; to guard (against)	
+対象	たいしょう target; object (of worship, study, etc.); subject (of taxation, etc.)	
+発着	はっちゃく arrival and departure	
+着順	ちゃくじゅん in order of arrival	
+爆笑	ばくしょう 1: roar of laughter (from several people) 2: laughing hard (single person)	
+出演	しゅつえん 1: performance; stage appearance 2: to act (in a play)	
+出演者	しゅつえんしゃ performer; entertainer; actor	
+出演料	しゅつえんりょう performance (actor's, singer's) fee	
+発明	はつめい 1: invention 2: intelligent; clever 3: being enlightened; having the meaning of everything become clear	
+大王	だいおう great king	
+問題作	もんだいさく controversial work (art, literature, etc.); work that caused public criticism; work of art dealing with contemporary questions; succes de scandale	
+児童	じどう children; juvenile	
+保護者	ほごしゃ guardian; protector; patron; parent	
+開催	かいさい holding a meeting; open an exhibition	
+合唱	がっしょう chorus; singing in a chorus	
+遠慮	えんりょ 1: reserve; constraint; restraint; modesty; diffidence; hesitation; holding back; discretion; tact; thoughtfulness 2: declining; refraining 3: forethought; foresight	
+撮影	さつえい photographing	
+紅葉	こうよう 1: autumn colours; fall colors; leaves changing color (colour) 2: leaves turning red; red leaves	
+上演	じょうえん performance (e.g. music, theatre, opera); staging	
+照れる	てれる to be shy; to be bashful; to feel awkward; to feel embarrassed	
+背景	はいけい 1: background; scenery; backdrop; setting; circumstance; context 2: backing; support (from behind the scenes)	
+事柄	ことがら matter; thing; affair; circumstance	
+意外	いがい unexpected; surprising	
+民族学	みんぞくがく ethnology	
+社会学	しゃかいがく sociology	
+話題	わだい topic; subject	
+辞儀	じぎ 1: (bowing and) greeting 2: declining; refusing	
+異民族	いみんぞく different race; different ethnic group; different peoples	
+列島	れっとう archipelago; chain of islands	
+支配	しはい rule; control; direction	
+近代	きんだい present day; modern times	
+事柄	ことがら matter; thing; affair; circumstance	
+人並み	ひとなみ being average (capacity, looks, standard of living); ordinary	
+控えめ	ひかえめ moderate; reserved; conservative; humble; mild-mannered; self-effacing; unassuming; well-behaved; low-key; temperate; in small quantities	
+技	わざ technique; art; skill	
+駄々	だだ tantrum; fretting	
+偶然	ぐうぜん (by) chance; unexpectedly; suddenly; accident; fortuity; by coincidence	
+巡り会う	めぐりあう to meet fortuitously (e.g. running into an old friend); to meet by chance; to happen across	
+鉦	かね gong; handbell	
+太鼓	たいこ drum	
+期待はずれ	きたいはずれ disappointment; let-down	
+幅広い	はばひろい extensive; wide; broad	
+部下	ぶか subordinate person	
+表す	あらわす 1: to reveal; to show; to display 2: to express 3: to represent; to signify; to stand for 4: to make widely known	
+切っ掛け	きっかけ chance; start; cue; excuse; motive; impetus; occasion	
+結局	けっきょく after all; eventually; in the end	
+優勝	ゆうしょう overall victory; championship	
+世相	せそう 1: phase of life; sign of the times 2: world (social) conditions; society	
+浮かび上がる	うかびあがる 1: to rise to the surface 2: to come to the front; to emerge (e.g. from obscurity) 3: to stand out (e.g. against a dark background)	
+配送	はいそう delivery	
+状況	じょうきょう state of affairs (around you); situation; circumstances	
+送信	そうしん transmission; sending	
+送信	そうしん transmission; sending	
+専用	せんよう 1: exclusive use; personal use; dedicated 2: private (e.g. network)	
+開催	かいさい holding a meeting; open an exhibition	
+誠に	まことに indeed; really; absolutely; truly; actually; very; quite	
+お越し	おこし coming or leaving	
+及び	および and; as well as	
+当日	とうじつ appointed day; very day	
+事務局	じむきょく secretariat; executive office	
+歓迎	かんげい welcome; reception	
+倦怠	けんたい languor; fatigue; weariness; boredom	
+余剰	よじょう redundant; surplus; residue; balance	
+横たわる	よこたわる to lie down; to stretch out	
+床	"とこ 1: bed; bedding 2: sickbed 3: alcove 4: riverbed 5: seedbed 6: straw ""core"" of a tatami mat 7: floor"	
+全体に	ぜんたいに generally	
+敷く	しく 1: to spread out; to lay out 2: to take a position 3: to impose widely (e.g. over a city)	
+立派	りっぱ splendid; fine; handsome; elegant; imposing; prominent; legal; legitimate	
+板張り	いたばり boarding; wooden floor	
+ちょうど今	ちょうどいま right now; just now	
+座布団	ざぶとん zabuton (flat floor cushion used when sitting or kneeling; usu. rectangular)	
+重ねて	かさねて once more; repeatedly	
+置いて	おいて at; in; on	
+畳む	たたむ 1: to fold (clothes) 2: to close (a shop) 3: to vacate	
+居間	いま living room (western style)	
+乾いた	かわいた dry; parched	
+藁	わら straw	
+草	くさ 1: grass; weed; herb; thatch 2: ninja 3: not genuine; substandard	
+湿気	しっけ moisture; humidity; dampness	
+素足	すあし bare feet	
+靴下	くつした socks; sock; stockings; stocking	
+暗証番号	あんしょうばんごう personal identification number; PIN; password number	
+救急車	きゅうきゅうしゃ ambulance	
+駐車違反	ちゅうしゃいはん parking violation	
+沙漠	さばく desert	
+渇く	かわく to be thirsty	
+幸運	こううん good luck; fortune	
+残り	のこり remnant; residue; remaining; left-over	
+ご存じ	ごぞんじ 1: knowing 2: (an) acquaintance	
+個性	こせい individuality; personality; idiosyncrasy	
+反発	はんぱつ 1: opposition; rebellion; revolt; resistance; backlash; refusal 2: rebounding; recoiling; repulsion 3: rally (e.g. in stock prices); recovery	
+共食い	ともぐい cannibalism (in animals); mutual destruction; internecine struggle; eating each other; damaging each other	
+奪う	うばう to snatch away; to dispossess; to steal	
+破棄	はき tearing up and discarding (e.g. documents); disposal (e.g. weaponry); revocation; annulment; breaking (e.g. treaty); reversing (e.g. an original judgment) (judgement); discard; cancellation; repeal	
+照射	しょうしゃ exposure	
+犠牲	ぎせい victim; sacrifice; scapegoat	
+無駄にする	むだにする to render futile; to bring to naught; to waste; to not make good use of	
+破壊	はかい 1: destruction; disruption 2: (application) crash	
+恩返し	おんがえし requital of a favour (favor); repayment (of an obligation, kindness, etc.)	
+亡霊	ぼうれい ghost; the dead; departed spirits; apparition	
+触角	しょっかく feeler; antenna	
+預かる	あずかる 1: to look after; to take care of; to keep; to hold on to; to keep in custody 2: to take charge of; to be entrusted with; to receive on deposit 3: to reserve (judgment); to leave undecided	
+流通	りゅうつう 1: circulation of money or goods; flow of water or air; distribution 2: negotiable (e.g. shares)	
+流通系	りゅうつうけい flow system	
+最低限	さいていげん minimum	
+基盤	きばん foundation; basis; base; footing	
+暴れる	あばれる to act violently; to rage; to struggle; to be riotous	
+賢者	けんしゃ wise man; wise woman; sage	
+田舎	いなか 1: rural area; countryside; the sticks 2: hometown	
+英雄	えいゆう 1: hero; heroine; great person 2: Eroica Symphony (Beethoven, 1804) 3: Heroic Polonaise (Chopin)	
+意志	いし will; volition; intention; intent; determination	
+継ぐ	つぐ to succeed (someone in a business or inheritance)	
+討ち滅ぼす	うちほろぼす to destroy	
+生き延びる	いきのびる to survive; to live long	
+滞在	たいざい stay; sojourn	
+柄	え 1: handle; grip 2: stalk (of a mushroom, leaf, etc.)	
+逃走	とうそう flight; desertion; escape	
+即座に	そくざに immediately; right away; on the spot	
+捜索	そうさく search (esp. for someone or something missing); investigation	
+争う	あらそう 1: to compete; to contest; to contend 2: to quarrel; to argue; to dispute; to be at variance; to oppose 3: (usu. in negative form) to deny (e.g. evidence)	
+形跡	けいせき traces; evidence	
+訃報	ふほう news of a person's death; obituary	
+駆け巡る	かけめぐる to run about; to rush about	
+萎縮	いしゅく withering; atrophy; contraction; dwarf	
+派遣	はけん dispatch; despatch; deployment	
+救う	すくう to rescue from; to help out of; to save	
+戦闘	せんとう battle; fight; combat	
+記録	きろく 1: record; minutes; document 2: a record (e.g. in sports); results; score 3: to record; to document 4: to set a record (e.g. in sports); to show a result; to reach a value	
+猶予	ゆうよ postponement; deferment; extension (of time)	
+戦闘機	せんとうき fighter (aircraft)	
+頂く	いただく 1: to receive; to get; to accept; to take; to buy 2: to eat; to drink 3: to be crowned with; to wear (on one's head); to have (on top) 4: to have (as one's leader); to live under (a ruler); to install (a president)	
+分析	ぶんせき analysis	
+判明	はんめい establishing; proving; identifying; confirming	
+万全	ばんぜん perfection; flawlessness	
+万全の策	ばんぜんのさく safe plan; infallible measure	
+奪う	うばう to snatch away; to dispossess; to steal	
+毒	どく 1: poison; toxicant 2: harm; evil influence 3: ill will; spite; malice 4: abusive language	
+蝕む	むしばむ 1: to be worm-eaten; to be eaten by worms 2: to affect adversely; to spoil; to ruin; to undermine; to gnaw at (one's heart, body, etc.); to eat into	
+相当数	そうとうすう a considerable number; a fair number	
+損壊	そんかい damage; destruction	
+千載一遇	せんざいいちぐう once in a lifetime (opportunity); (a golden opportunity that may) happen only once in a thousand years	
+捕まる	つかまる 1: to be caught; to be arrested 2: to hold on to; to grasp 3: to find (e.g. proof); to get (e.g. a taxi) 4: to be detained by	
+観光客	かんこうきゃく tourist	
+字幕	じまく subtitle (movie)	
+試す	ためす to attempt; to test; to try out	
+硝子	ガラス 1: glass (dut: glas); pane 2: vitreous	
+硝子	しょうし 1: glass (dut: glas); pane 2: vitreous	
+裸足	はだし 1: barefoot 2: superior to (a professional, etc. in ability or achievement)	
+足跡	あしあと 1: footprints 2: record of page visitors (e.g. in social networking sites)	
+辿る	たどる to follow (road); to pursue (course); to follow up; to follow (hyperlink)	
+錆び	さび rust	
+放つ	はなつ 1: to fire (e.g. an arrow); to hit (e.g. baseball); to break wind 2: to free; to release 3: to give off (e.g. a scent); to emit (e.g. light)	
+金魚	きんぎょ goldfish	
+靴箱	くつばこ shoe box; shoe shelf	
+林檎	りんご 1: apple (fruit) 2: apple tree (Malus pumila)	
+萎びる	しなびる to shrivel (e.g. cut vegetables, skin); to wilt; to fade; to wither; to be wizened	
+肌	はだ 1: skin 2: body (in the context of intimate bodily contact) 3: surface; grain (e.g. of wood); texture 4: disposition; temperament; character; type	
+傷跡	きずあと scar; cicatrix	
+迷子	まいご lost child; lost person; stray child; missing child	
+有線放送	ゆうせんほうそう cable broadcast	
+宣伝	せんでん publicity; advertisement; advertising; propaganda	
+掛け声	"かけごえ yell used to time or encourage activity (e.g. ""Heave ho!"", ""On three ... One, two, three!"" in English); enthusiastic shout from the audience (e.g. in kabuki); shouting (in concerts)"	
+握る	にぎる 1: to clasp; to grasp; to grip; to clutch 2: to make (nigirizushi, rice ball, etc.); to form; to press into shape; to mold; to mould 3: to seize (power, etc.); to take hold of	
+混ざる	まざる to be mixed; to be blended with; to associate with; to mingle with; to join	
+鼓膜	こまく eardrum; tympanic membrane	
+売り場	うりば place where things are sold; point of sale; POS; sales floor; counter (in shop)	
+奥	おく interior; inner part; inside	
+女性	じょせい 1: woman; female 2: feminine gender	
+反応	はんのう reaction; response	
+勝手	かって 1: one's own convenience; one's way 2: convenience or ease of use; knowledge of how to use 3: circumstances; situation (e.g. financial); environment 4: kitchen 5: arbitrary 6: unauthorised (e.g. phone app, WWW site); unofficial	
+手元	てもと 1: at hand; on hand; nearby; close at hand 2: way of moving one's arms; skill 3: money at hand; pocket money 4: grip; handle	
+物色	ぶっしょく 1: looking for a particular person or thing; searching high and low; hunting for; rummaging; scouring (a place) looking for (something) 2: picking out; singling out	
+散らばる	ちらばる to be scattered about	
+散らばる	ちらばる to be scattered about	
+拾う	ひろう to pick up; to find; to gather	
+無数	むすう countless number; infinite number; innumerable	
+納品	のうひん delivery of goods	
+検品	けんぴん inspection	
+清潔	せいけつ 1: clean; hygienic; sanitary 2: pure; virtuous; immaculate	
+整然	せいぜん orderly; regular; systematic; well-organized; well-organised; trim; tidy; accurate	
+真ん中	まんなか middle; centre; center; mid-way	
+二列	にれつ two rows; double file	
+横に	よこに 1: horizontally; flat 2: across; crossways; crosswise; sideways; abreast	
+端っこ	はしっこ end; edge; tip	
+勝負	しょうぶ victory or defeat; match; contest; game; bout	
+染み	しみ 1: stain; spot; smudge; blot; smear; blotch 2: spot (on one's skin, e.g. chloasma, liver spot); blemish; discoloration; freckle	
+肉体	にくたい the body; the flesh	
+指示を出す	しじをだす to give directions; to issue instructions	
+徴	しるし sign; indication; omen	
+小銭	こぜに coins; small change	
+振り向く	ふりむく to turn one's face; to turn around; to look over one's shoulder	
+掌	てのひら palm (of one's hand)	
+煙草	たばこ tobacco (por: tabaco); cigarettes	
+敏感	びんかん sensibility; susceptibility; sensitive (to); well attuned to	
+案の定	あんのじょう just as one thought; as usual; sure enough	
+缶コーヒー	かんコーヒー canned coffee	
+片手	かたて one hand	
+片方	かたほう 1: one side; one party; counterpart; the other side; the other party 2: one of a pair; fellow; mate	
+突っ込む	つっこむ 1: to thrust something into something 2: to plunge into; to go into deeply 3: to meddle; to interfere 4: to retort 5: to riposte	
+近付く	ちかづく 1: to approach; to draw near; to get close 2: to get acquainted with; to get closer to; to get to know	
+素早い	すばやい 1: fast; quick; prompt; nimble; agile 2: quick (to understand); sharp (judgement)	
+待機	たいき alert; standby; await an opportunity; wait for orders	
+軽い	かるい 1: light (i.e. not heavy); feeling light (i.e. offering little resistance, moving easily) 2: light (i.e. of foot); nimble; agile 3: non-serious; minor; unimportant; trivial 4: slight; small; gentle; soft 5: easy; simple 6: indiscriminate	
+会釈	えしゃく nod; salutation; greeting; recognition; bow	
+差し出し人	さしだしにん sender	
+抜き取り検査	ぬきとりけんさ sequential sampling inspection (with reposition)	
+年齢	ねんれい age; years	
+目線	めせん 1: one's gaze 2: from the point of view of	
+媒鳥	おとり 1: decoy (for hunting); stool 2: lure; decoy; stool pigeon; trap	
+一歩	いっぽ 1: (a) step 2: level; stage 3: small degree; small amount	
+消毒	しょうどく disinfection; sterilization; sterilisation	
+仕草	しぐさ action; acting; gesture; bearing; treatment; behavior; behaviour	
+電子マネー	でんしマネー electronic money	
+咄嗟に	とっさに at once; right away; promptly; on the spur of the moment	
+判断	はんだん judgement; judgment; decision; adjudication; conclusion; decipherment; divination	
+スイカ	watermelon	
+細かい	こまかい 1: small 2: fine; minute 3: minor; trivial 4: sensitive; attentive	
+自動的	じどうてき automatic	
+取	しゅ appropriation; obtaining	
+反射的	はんしゃてき reflexive; reflecting	
+観察	かんさつ observation; survey	
+不快	ふかい unpleasant; displeasure; discomfort	
+細心	さいしん meticulous; careful; discreet; scrupulous; prudent	
+従って	したがって therefore; consequently; accordingly	
+渡す	わたす 1: to ferry across (a river, etc.); to carry across; to traverse 2: to lay across; to build across 3: to hand over; to hand in; to pass; to give; to transfer	
+去る	"さる 1: to leave; to go away 2: to pass; to elapse 3: to be distant 4: to send away; to drive off; to divorce 5: (after a -masu stem, esp. of a suru verb) ... completely 6: last ... (e.g. ""last April"")"	
+会釈	えしゃく nod; salutation; greeting; recognition; bow	
+正常	せいじょう normalcy; normality; normal	
+指紋	しもん fingerprint	
+姿	すがた 1: figure; form; shape 2: appearance; dress; guise 3: state; condition; picture; image 4: form (of a waka) 5: dressed in ...; wearing ...	
+歯車	はぐるま gear; cog-wheel	
+回転	かいてん rotation (usu. around something); revolution; turning	
+廻り	めぐり 1: circumference; girth 2: tour; pilgrimage 3: circulation (e.g. of blood)	
+部品	ぶひん parts; accessories; components	
+何枚	なんまい how many thin flat objects?	
+金庫	きんこ 1: safe; strongbox; cashbox; vault; strongroom 2: depository; cash office; treasury; provider of funds	
+日参	にっさん daily visit (of worship); frequent visit	
+奴等	やつら they; those guys	
+年増	としま mature woman; middle-aged woman	
+適齢期	てきれいき suitable age (esp. for marriage); marriageable age	
+高飛車	たかびしゃ high-handed; domineering; on one's high horse	
+威張り腐る	いばりくさる to throw one's weight around; to be puffed up	
+威張る	えばる to put on airs; to act big; to throw one's weight about; to be overbearing; to be domineering; to be bossy; to be pushy; to be proud; to be haughty; to be arrogant; to swagger; to boast; to brag	
+中元	ちゅうげん 1: 15th day of the 7th lunar month; (last day of) Bon lantern festival 2: Bon gifts	
+目標達成	もくひょうたっせい achievement of one's goal; goal achievement	
+色目	いろめ 1: amorous glance; leer; ogle 2: shade (of color); tint; hue 3: ingratiation; sycophancy; toadying	
+狩り	かり hunting	
+遺伝子	いでんし 1: gene 2: genetic	
+慰め	なぐさめ comfort; consolation; diversion	
+現代	げんだい nowadays; modern era; modern times; present-day	
+幻想	げんそう illusions	
+男女平等	だんじょびょうどう gender equality; equal rights for both sexes; equality of the sexes	
+着替え	きがえ changing clothes; change of clothes	
+悪口	わるくち abuse; insult; slander; evil speaking; bad mouth	
+渋々	しぶしぶ reluctantly; unwillingly	
+調子	ちょうし 1: tune; tone; key; pitch; time; rhythm 2: vein; mood; way; manner; style; knack 3: condition; state of health 4: impetus; spur of the moment; strain 5: trend	
+修復	しゅうふく restoration; repair; mending	
+朝礼	ちょうれい morning assembly (company, school, etc.); pep talk	
+強制的	きょうせいてき forced; compulsory	
+正常化	せいじょうか normalization; normalisation	
+集団主義	しゅうだんしゅぎ collectivism (giving priority to a group rather than any individual member)	
+田植え	たうえ rice planting	
+収穫	しゅうかく harvest; crop; ingathering	
+地域	ちいき area; region	
+管理	かんり control; management (e.g. of a business)	
+作業	さぎょう work; operation; manufacturing; fatigue duty	
+稲作	いなさく rice cultivation; rice crop	
+地域	ちいき area; region	
+固い	かたい 1: hard; solid; tough 2: stiff; tight; wooden; unpolished (e.g. writing) 3: strong; firm (not viscous or easily moved) 4: safe; steady; honest; steadfast 5: obstinate; stubborn 6: bookish; formal; stuffy	
+程度	ていど degree; amount; grade; standard; of the order of (following a number)	
+右側	みぎがわ right side; right hand	
+矢印	やじるし arrow (mark or symbol); directional marker or indicator	
+故障	こしょう 1: breakdown; failure; fault; accident; out of order 2: damage; hurt 3: objection; protest	
+分解	ぶんかい 1: disassembly; dismantling; disaggregating; analysis; disintegrating; decomposing; degrading 2: factorization 3: (chem) decomposition; resolution 4: deblocking	
+点滅	てんめつ switching on and off; flashing; blinking; flickering	
+防水性	ぼうすいせい waterproof	
+電池	でんち battery	
+点滅	てんめつ switching on and off; flashing; blinking; flickering	

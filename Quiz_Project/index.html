@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Polished Japanese Flashcards</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="page-header">
+        <div class="progress-container">
+            <div id="progress-tracker">
+                <span>Reviewed: <strong>0</strong></span>
+            </div>
+            <button id="hard-words-button" class="icon-button" title="View Hard Words">🔖</button>
+            <button id="reset-progress" class="icon-button" title="Reset Progress">🔄</button>
+        </div>
+    </header>
+
+    <main class="main-content">
+        <div class="card-container">
+            <div id="flashcard">
+                <div id="kanji-display" class="kanji"></div>
+                <div id="reading-display" class="reading"></div>
+                <div id="english-display" class="english"></div>
+            </div>
+            <div id="button-container">
+                </div>
+        </div>
+    </main>
+    
+    <div id="hard-words-modal" class="modal-backdrop hidden">
+        <div class="modal-content">
+            <span id="close-modal-button" class="close-button">&times;</span>
+            <h2>Hard Words List</h2>
+            <div class="list-container">
+                <ul id="hard-words-list"></ul>
+            </div>
+            <button id="clear-hard-words-button">Clear List</button>
+        </div>
+    </div>
+    
+    <footer class="page-footer">
+        <div class="footer-content">
+            <p>&copy; <span id="copyright-year"></span> Sadik Aden &middot; Nagoya, Japan</p>
+            <div class="social-links">
+                <a href="https://github.com/Sadikn7i" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://www.instagram.com/sadiq_n7i/" target="_blank" title="Instagram"><i class="fab fa-instagram"></i></a>
+                <a href="https://x.com/sadikadendirir" target="_blank" title="X (Twitter)"><i class="fab fa-twitter"></i></a>
+                <a href="https://www.linkedin.com/in/sadik-aden-a24440385/" target="_blank" title="LinkedIn"><i class="fab fa-linkedin"></i></a>
+                <a href="mailto:sadikaden1999@gmail.com" title="Email"><i class="fas fa-envelope"></i></a>
+            </div>
+        </div>
+    </footer>
+
+    <script src="vocabulary.js"></script>
+    <script src="script.js"></script>
+</body>
+</html>
