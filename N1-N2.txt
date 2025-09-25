@@ -1,4 +1,6 @@
-
+#separator:tab
+#html:false
+#tags column:3
 踏まえる	ふまえる to be based on; to have origin in	
 寄せる	よせる 1: to come near; to let someone approach 2: to bring near; to bring together; to collect; to gather 3: to deliver (opinion, news, etc.); to send (e.g. a letter); to contribute; to donate 4: to let someone drop by 5: to add (numbers) 6: to have feelings for (love, good will, trust, etc.) 7: to rely upon for a time; to depend on 8: to use as a pretext 9: to put aside 10: to press; to push; to force	
 給付	きゅうふ 1: payment; provision; benefit; present; delivery 2: performance	
