@@ -6,7 +6,7 @@ A modern, responsive Japanese vocabulary flashcard web app designed for effectiv
 
 ---
 
-
+## ✨ Features
 
 -   **Intelligent Spaced Repetition (SRS):** Words you find "Easy" appear less frequently, while words marked as "Hard" are prioritized, optimizing your study time. Your progress is automatically saved.
 -   **Daily Study Sessions:** To prevent burnout, the app automatically creates a focused study list (defaulting to 200 words) each day, ensuring you review the most important vocabulary without feeling overwhelmed.
