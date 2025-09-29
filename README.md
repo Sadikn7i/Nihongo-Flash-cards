@@ -2,7 +2,7 @@
 
 A modern, responsive Japanese vocabulary flashcard web app designed for effective learning through a simplified Spaced Repetition System (SRS). This application is built with vanilla HTML, CSS, and JavaScript, focusing on a clean user interface and a focused study experience.
 
-
+![Nihongo App Quiz Screenshot](https://raw.githubusercontent.com/Sadikn7i/Nihongo-Flash-cards/master/pic.png)
 
 ---
 
